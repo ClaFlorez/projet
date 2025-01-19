@@ -8,3 +8,11 @@
 **Conseil :** Prenez le temps de lire et comprendre chaque étape avant d’exécuter les commandes. Soyez méthodiques et notez vos erreurs pour les corriger rapidement. Bonne chance ! 
 ### Consignes :
 Utilisez les glossaires annexes pour retrouver les commandes appropriées pour chaque exercice sans donner directement la réponse. Assurez-vous de comprendre chaque étape et son objectif avant d'écrire les commandes dans les espaces fournis.
+
+
+ **Modifiez le contenu du fichier `fichier2.txt`. Enregistrez les modifications, effectuez un commit avec un message approprié, puis poussez ces modifications vers GitHub.**  
+   *(Vérifiez l'état du dépôt avant et après la modification du fichier.)*  
+   *(Écrivez les commandes nécessaires pour gérer cette étape.)*  
+   *(Espace pour écrire les commandes)*  
+   ```
+   
