@@ -1,0 +1,10 @@
+### Objectif principal : fichier 2
+À la fin de l’examen, vous serez capable de :
+- Gérer un dépôt Git local.
+- Connecter et synchroniser un dépôt local avec GitHub.
+- Enregistrer des modifications de manière organisée et collaborative.
+- Utiliser les commandes Git essentielles pour un travail efficace.
+
+**Conseil :** Prenez le temps de lire et comprendre chaque étape avant d’exécuter les commandes. Soyez méthodiques et notez vos erreurs pour les corriger rapidement. Bonne chance ! 
+### Consignes :
+Utilisez les glossaires annexes pour retrouver les commandes appropriées pour chaque exercice sans donner directement la réponse. Assurez-vous de comprendre chaque étape et son objectif avant d'écrire les commandes dans les espaces fournis.
